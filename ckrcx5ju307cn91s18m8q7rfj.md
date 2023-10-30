@@ -37,5 +37,3 @@ Developers rely on serverless to execute specific functions. Because of this, cl
 The modern age of serverless computing began with the launch of AWS Lambda, a platform based on Amazon’s cloud service, in 2014. Microsoft followed suit with Azure Functions in 2016. Google Cloud Functions, which had been in beta since 2017, finally reached production status in July 2018. The three services have slightly different limitations, advantages, supported languages, and ways of doing things.
 <img src="https://miro.medium.com/max/1050/1*9v5XVNWV1CPBW49l-yZMmA.png">
 </p>
-
-
