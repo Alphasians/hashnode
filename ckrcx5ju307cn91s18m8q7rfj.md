@@ -1,9 +1,8 @@
 ---
 title: "What are Serverless? Why do you need them?"
 datePublished: Wed Jul 21 2021 03:21:25 GMT+0000 (Coordinated Universal Time)
-cuid: ckrcx5ju307cn91s18m8q7rfj
 slug: what-are-serverless-why-do-you-need-them
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1626837656918/mrzhATJE8.jpeg
+featured_image: https://cdn.hashnode.com/res/hashnode/image/upload/v1626837656918/mrzhATJE8.jpeg
 
 ---
 
